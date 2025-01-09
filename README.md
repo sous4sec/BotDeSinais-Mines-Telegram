@@ -146,4 +146,5 @@ Entre em contato pelo Telegram ou abra uma [issue](https://github.com/sous4sec/B
 
 ---
 
+Sou um estudante projeto foi feito para estudo! Este código é excelente para ações de igaming, pois automatiza o envio de sinais e rankings em tempo real, criando uma experiência interativa e dinâmica para os usuários, ideal para grupos de apostas e jogos online. É importante destacar que os dados e resultados gerados não são reais e são gerados de forma simulada.
 Divirta-se explorando este projeto! 😄
