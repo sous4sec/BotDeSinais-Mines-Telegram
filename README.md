@@ -109,7 +109,8 @@ Antes de começar, você precisa de:
 
 - **Rank Gerado**:
 
-  ![Tabuleiro Gerado](images/tabuleiro.png)
+  ![Rank Gerado](https://github.com/user-attachments/assets/3a7fc764-9c68-45ed-933c-bf2deebae299)
+
 
 - **Mensagem Green**:
 
