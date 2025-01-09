@@ -111,7 +111,9 @@ Antes de começar, você precisa de:
 
 - **Mensagem Green**:
 
-  ![Mensagem Green](images/mensagem_green.png)
+  ![Mensagem Green](https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd)
+
+
 
 ---
 
