@@ -1,6 +1,6 @@
 
-# Bot de Sinais Mines para Telegram
-
+# Bot de Sinais Mines para Telegram 🎰🤖💣 
+ 
 Bem-vindo ao **Bot de Sinais Mines para Telegram**! Este é um projeto divertido e desafiador criado por um estudante de programação. O bot envia sinais automáticos para um grupo do Telegram com um tabuleiro interativo, rankings de apostadores e mensagens personalizadas. Perfeito para aprender sobre bots e automação!
 
 ## 🚀 Recursos Principais
