@@ -1,3 +1,4 @@
+
 # Bot de Sinais Mines para Telegram
 
 Bem-vindo ao **Bot de Sinais Mines para Telegram**! Este é um projeto divertido e desafiador criado por um estudante de programação. O bot envia sinais automáticos para um grupo do Telegram com um tabuleiro interativo, rankings de apostadores e mensagens personalizadas. Perfeito para aprender sobre bots e automação!
@@ -25,64 +26,60 @@ Antes de começar, você precisa de:
 
 1. **Clone o Repositório**:
 
-   
-bash
-   git clone https://github.com/sous4sec/BotDeSinais-Mines-Telegram.git
-   cd BotDeSinais-Mines-Telegram
-
+```bash
+git clone https://github.com/sous4sec/BotDeSinais-Mines-Telegram.git
+cd BotDeSinais-Mines-Telegram
+```
 
 2. **Instale as Dependências**:
 
-   Certifique-se de ter o pip configurado:
+Certifique-se de ter o pip configurado:
 
-   
-bash
-   pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 
 3. **Configure o Arquivo .env**:
 
-   Crie um arquivo .env na raiz do projeto e preencha com suas configurações:
+Crie um arquivo `.env` na raiz do projeto e preencha com suas configurações:
 
-   
-env
-   # Configurações sensíveis para o bot
-   API_TOKEN=seu_api_token_aqui
-   CHAT_ID=seu_chat_id_aqui
+```env
+# Configurações sensíveis para o bot
+API_TOKEN=seu_api_token_aqui
+CHAT_ID=seu_chat_id_aqui
 
-   # Caminho para imagem a ser enviada
-   CAMINHO_IMAGEM=img.png
+# Caminho para imagem a ser enviada
+CAMINHO_IMAGEM=img.png
 
-   # URLs das plataformas autorizadas
-   PLATAFORMA_1_URL=https://exemplo1.com
-   PLATAFORMA_2_URL=https://exemplo2.com
+# URLs das plataformas autorizadas
+PLATAFORMA_1_URL=https://exemplo1.com
+PLATAFORMA_2_URL=https://exemplo2.com
 
-   # Configurações de delay (em segundos)
-   DELAY_SINAL_EM_BREVE=1
-   DELAY_SINAL_CAPTURADO=10
-   DELAY_ENVIO_TABULEIRO=300
-   DELAY_ENVIO_GREEN=10
-   DELAY_ENVIO_RANKING=10
+# Configurações de delay (em segundos)
+DELAY_SINAL_EM_BREVE=1
+DELAY_SINAL_CAPTURADO=10
+DELAY_ENVIO_TABULEIRO=300
+DELAY_ENVIO_GREEN=10
+DELAY_ENVIO_RANKING=10
 
-   # Configurações de tabuleiro e apostas
-   MIN_BOMBAS=1
-   MAX_BOMBAS=4
-   MIN_ESTRELAS=2
-   MAX_ESTRELAS=4
-   MIN_VALOR=100
-   MAX_VALOR=3000
-   MIN_PORCENTAGEM=65
-   MAX_PORCENTAGEM=90
-
+# Configurações de tabuleiro e apostas
+MIN_BOMBAS=1
+MAX_BOMBAS=4
+MIN_ESTRELAS=2
+MAX_ESTRELAS=4
+MIN_VALOR=100
+MAX_VALOR=3000
+MIN_PORCENTAGEM=65
+MAX_PORCENTAGEM=90
+```
 
 4. **Execute o Bot**:
 
-   Inicie o bot com o comando:
+Inicie o bot com o comando:
 
-   
-bash
-   python bot.py
-
+```bash
+python bot.py
+```
 
 ---
 
@@ -103,24 +100,27 @@ bash
 
 - **Mensagem Inicial**:
 
-  ![Mensagem Inicial](https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6)
-
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6" width="400">
+  </div>
 
 - **Tabuleiro Gerado**:
 
-  ![Tabuleiro Gerado](https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38)
-
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38" width="400">
+  </div>
 
 - **Rank Gerado**:
 
-  ![Rank Gerado](https://github.com/user-attachments/assets/3a7fc764-9c68-45ed-933c-bf2deebae299)
-
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/3a7fc764-9c68-45ed-933c-bf2deebae299" width="400">
+  </div>
 
 - **Mensagem Green**:
 
-  ![Mensagem Green](https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd)
-
-
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd" width="400">
+  </div>
 
 ---
 
@@ -129,7 +129,7 @@ bash
 - **Configurações no .env**:
   - Ajuste os delays, limites de apostas e configurações do tabuleiro de acordo com sua preferência.
 - **Texto e Mensagens**:
-  - Modifique as mensagens no arquivo bot.py para personalizar o estilo do bot.
+  - Modifique as mensagens no arquivo `bot.py` para personalizar o estilo do bot.
 
 ---
 
