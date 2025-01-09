@@ -98,9 +98,15 @@ Antes de começar, você precisa de:
 ## 📸 Exemplos de Imagens
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6" alt="Mensagem Inicial" width="250">
-  <img src="https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38" alt="Tabuleiro Gerado" width="250">
-  <img src="https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd" alt="Mensagem Green" width="250">
+  <div>
+    <img src="https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6" alt="Mensagem Inicial" width="300">
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38" alt="Tabuleiro Gerado" width="300">
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd" alt="Mensagem Green" width="300">
+  </div>
 </div>
 
 ---
