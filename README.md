@@ -25,24 +25,27 @@ Antes de começar, você precisa de:
 
 1. **Clone o Repositório**:
 
-   ```bash
+   
+bash
    git clone https://github.com/sous4sec/BotDeSinais-Mines-Telegram.git
    cd BotDeSinais-Mines-Telegram
-   ```
+
 
 2. **Instale as Dependências**:
 
    Certifique-se de ter o pip configurado:
 
-   ```bash
+   
+bash
    pip install -r requirements.txt
-   ```
+
 
 3. **Configure o Arquivo .env**:
 
    Crie um arquivo .env na raiz do projeto e preencha com suas configurações:
 
-   ```env
+   
+env
    # Configurações sensíveis para o bot
    API_TOKEN=seu_api_token_aqui
    CHAT_ID=seu_chat_id_aqui
@@ -70,15 +73,16 @@ Antes de começar, você precisa de:
    MAX_VALOR=3000
    MIN_PORCENTAGEM=65
    MAX_PORCENTAGEM=90
-   ```
+
 
 4. **Execute o Bot**:
 
    Inicie o bot com o comando:
 
-   ```bash
+   
+bash
    python bot.py
-   ```
+
 
 ---
 
@@ -97,15 +101,26 @@ Antes de começar, você precisa de:
 
 ## 📸 Exemplos de Imagens
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6" alt="Mensagem Inicial" width="300">
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column;">
-    <img src="https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38" alt="Tabuleiro Gerado" width="300">
-    <img src="https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd" alt="Mensagem Green" width="300">
-  </div>
-</div>
+- **Mensagem Inicial**:
+
+  ![Mensagem Inicial](https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6)
+
+
+- **Tabuleiro Gerado**:
+
+  ![Tabuleiro Gerado](https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38)
+
+
+- **Rank Gerado**:
+
+  ![Rank Gerado](https://github.com/user-attachments/assets/3a7fc764-9c68-45ed-933c-bf2deebae299)
+
+
+- **Mensagem Green**:
+
+  ![Mensagem Green](https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd)
+
+
 
 ---
 
@@ -132,4 +147,3 @@ Entre em contato pelo Telegram ou abra uma [issue](https://github.com/sous4sec/B
 ---
 
 Divirta-se explorando este projeto! 😄
-
