@@ -5,9 +5,9 @@ Bem-vindo ao **Bot de Sinais Mines para Telegram**! Este é um projeto divertido
 
 ## 🚀 Recursos Principais
 
-- **Envio Automático de Sinais**: O bot cria e envia sinais com um tabuleiro estilo "mines".
+- **Envio Automático de Sinais**: O bot cria e envia sinais com um tabuleiro do jogo de azar Mines.
 - **Cronômetro Interativo**: Atualizações em tempo real do cronômetro na mensagem do Telegram.
-- **Mensagens Personalizadas**: Inclui rankings e resultados das apostas.
+- **Mensagens Personalizadas**: Inclui rankings e resultados fictícios das apostas.
 - **Configurações Flexíveis**: Ajuste delays, configurações do tabuleiro e mais no arquivo .env.
 
 ---
