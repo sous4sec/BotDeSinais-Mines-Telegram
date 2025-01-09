@@ -99,11 +99,13 @@ Antes de começar, você precisa de:
 
 - **Mensagem Inicial**:
 
-  ![Mensagem Inicial](images/mensagem_inicial.png)
+  ![Mensagem Inicial](https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6)
+
 
 - **Tabuleiro Gerado**:
 
-  ![Tabuleiro Gerado](images/tabuleiro.png)
+  ![Tabuleiro Gerado](https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38)
+
 
 - **Rank Gerado**:
 
