@@ -135,7 +135,7 @@ python bot.py
 
 ## 🚨 Observações
 
-- Este projeto é apenas para fins de aprendizado e diversão.
+- Este projeto é apenas para fins de aprendizado e diversão por um estudante.
 - Não use para fins maliciosos ou fora de grupos autorizados.
 
 ---
