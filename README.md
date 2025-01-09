@@ -7,7 +7,7 @@ Bem-vindo ao **Bot de Sinais Mines para Telegram**! Este é um projeto divertido
 - **Envio Automático de Sinais**: O bot cria e envia sinais com um tabuleiro estilo "mines".
 - **Cronômetro Interativo**: Atualizações em tempo real do cronômetro na mensagem do Telegram.
 - **Mensagens Personalizadas**: Inclui rankings e resultados das apostas.
-- **Configurações Flexíveis**: Ajuste delays, configurações do tabuleiro e mais no arquivo `.env`.
+- **Configurações Flexíveis**: Ajuste delays, configurações do tabuleiro e mais no arquivo .env.
 
 ---
 
@@ -32,15 +32,15 @@ Antes de começar, você precisa de:
 
 2. **Instale as Dependências**:
 
-   Certifique-se de ter o `pip` configurado:
+   Certifique-se de ter o pip configurado:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure o Arquivo `.env`**:
+3. **Configure o Arquivo .env**:
 
-   Crie um arquivo `.env` na raiz do projeto e preencha com suas configurações:
+   Crie um arquivo .env na raiz do projeto e preencha com suas configurações:
 
    ```env
    # Configurações sensíveis para o bot
@@ -97,35 +97,20 @@ Antes de começar, você precisa de:
 
 ## 📸 Exemplos de Imagens
 
-- **Mensagem Inicial**:
-
-  ![Mensagem Inicial](https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6)
-
-
-- **Tabuleiro Gerado**:
-
-  ![Tabuleiro Gerado](https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38)
-
-
-- **Rank Gerado**:
-
-  ![Rank Gerado](https://github.com/user-attachments/assets/3a7fc764-9c68-45ed-933c-bf2deebae299)
-
-
-- **Mensagem Green**:
-
-  ![Mensagem Green](https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd)
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e40bde2-a0bf-4836-86f4-cf158f0cb7f6" alt="Mensagem Inicial" width="250">
+  <img src="https://github.com/user-attachments/assets/3c0e9491-d24c-4020-953d-32e60b169b38" alt="Tabuleiro Gerado" width="250">
+  <img src="https://github.com/user-attachments/assets/566b3263-6630-43de-ad53-ddf43a1df9dd" alt="Mensagem Green" width="250">
+</div>
 
 ---
 
 ## 🔧 Personalização
 
-- **Configurações no `.env`**:
+- **Configurações no .env**:
   - Ajuste os delays, limites de apostas e configurações do tabuleiro de acordo com sua preferência.
 - **Texto e Mensagens**:
-  - Modifique as mensagens no arquivo `bot.py` para personalizar o estilo do bot.
+  - Modifique as mensagens no arquivo bot.py para personalizar o estilo do bot.
 
 ---
 
